@@ -4,7 +4,7 @@
    
    The NUIPUI dataset can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1JZiDrZJoaQV0B1YUU60Frw) (Password：2407) and [Google Drive](https://drive.google.com/file/d/1hTaHM8_pIMhtocXoCAXiRregVOsEYiGT/view?usp=drive_link).
 
-   The code and dataset can only be used for non-commercial purpose. If you use our code or dataset, please cite the paper.
+   The code and dataset can only be used for non-commercial purpose. If you use our code or dataset, please cite the paper. Thanks.
 
    Jiaqi Ma, Mingzhe Wang, Guojia Hou, Weidong Zhang, Baoxiang Huang, "PQGAL-net: Perceptual quality guided generative adversarial learning for non-uniform illumination underwater image enhancement," Digital Signal Processing, 2025: 105048.
    
