@@ -6,7 +6,7 @@
 
    The code and dataset can only be used for non-commercial purpose. If you use our code or dataset, please cite the paper.
 
-    Jiaqi Ma, Mingzhe Wang, Guojia Hou, Weidong Zhang, Baoxiang Huang, "PQGAL-net: Perceptual quality guided generative adversarial learning for non-uniform illumination underwater image enhancement," Digital Signal Processing, 2025: 105048.
+   Jiaqi Ma, Mingzhe Wang, Guojia Hou, Weidong Zhang, Baoxiang Huang, "PQGAL-net: Perceptual quality guided generative adversarial learning for non-uniform illumination underwater image enhancement," Digital Signal Processing, 2025: 105048.
    
   
   
