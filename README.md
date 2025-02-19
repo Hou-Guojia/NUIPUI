@@ -1,4 +1,4 @@
-# Code and dataset for "PQGAL-Net: Perceptual Quality Guided Generative Adversarial Learning for Non-uniform Illumination Underwater Image Enhancement"
+# PQGAL-Net: Perceptual Quality Guided Generative Adversarial Learning for Non-uniform Illumination Underwater Image Enhancement
 
    The NUIPUI  dataset contains 1200 real high-quality underwater images with multiple scenes and 1200 corresponding synthesized NUI images.  The data is divided into six subsets (LD-1 to LD-6) based on different light distributions.
    
